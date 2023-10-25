@@ -10,6 +10,15 @@
 
 ### :man_technologist: Обо мне:
 
+Я веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+- Работаю с системой 1С-Битрикс Управление сайтом
+- Работаю с CRM системой Битрикс24
+- Имею опыт разработки на PHP
+- Разрабатываю пользовательский интерфейс на JavaScript/VueJS/React
+- Имею опыт в работе с фреймворком Laravel
+- Работаю с базами данных MySQL
+- Опыт в вёрстке на CSS также на фремворках Bootstrap/Tailwind
+
 ---
 
 ### :hammer_and_wrench: Языки и инструменты:
@@ -64,19 +73,22 @@
 
 ---
 
-<!-- ### :chart_with_upwards_trend: Статистика профиля:
+### :fire: Моя статистика:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trial74&theme=dark&background=000000)](https://git.io/streak-stats)
 
-Карточка профиля: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trial74)](https://github.com/anuraghazra/github-readme-stats)
+
+### Карточка профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trial74&theme=solarized_dark)
 
-Статистика языков в коммитах:
+### Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trial74&theme=solarized_dark)
 
-Статистика языков в репозиториях:
+### Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trial74&theme=solarized_dark)
 
-Статистика профиля:
+### Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trial74&theme=solarized_dark)
 
-Данные по коммитам за сутки:
+### Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trial74&theme=solarized_dark) -->
