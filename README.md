@@ -8,20 +8,18 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
-Я веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
-- Работаю с системой 1С-Битрикс Управление сайтом
-- Работаю с CRM системой Битрикс24
-- Имею опыт разработки на PHP
-- Разрабатываю пользовательский интерфейс на JavaScript/VueJS/React
-- Имею опыт в работе с фреймворком Laravel
-- Работаю с базами данных MySQL
-- Опыт в вёрстке на CSS также на фремворках Bootstrap/Tailwind
+#### Веб-разработчик с опытом разработки, доработки и сопровождения коммерческих проектов на CMS 1С-Битрикс и CRM Битрикс24. Участвую в развитии существующих решений: оптимизация, рефакторинг, расширение функционала.
+
+- <b>Backend:</b> PHP (разработка обработчиков, контроллеров, бизнес-логики), опыт работы с фреймворком Laravel.
+- <b>Frontend:</b> JavaScript, jQuery, React.
+- <b>Вёрстка:</b> адаптивная и кроссбраузерная вёрстка на CSS, Tailwind CSS, Bootstrap.
+- <b>Инструменты:</b> Webpack, Vite, Git (GitHub, GitLab).
 
 ---
 
-### :hammer_and_wrench: Языки и инструменты:
+### :hammer_and_wrench: Полный стек с которым имел опыт работы:
 
 #### Инструменты:
 <div>
@@ -72,23 +70,3 @@
 </div>
 
 ---
-
-### :fire: Моя статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trial74&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trial74)](https://github.com/anuraghazra/github-readme-stats)
-
-### Карточка профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trial74&theme=solarized_dark)
-
-### Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Trial74&theme=solarized_dark)
-
-### Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Trial74&theme=solarized_dark)
-
-### Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Trial74&theme=solarized_dark)
-
-### Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Trial74&theme=solarized_dark) -->
