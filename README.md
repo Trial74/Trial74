@@ -17,9 +17,7 @@
 - <b>Вёрстка:</b> адаптивная и кроссбраузерная вёрстка на CSS, Tailwind CSS, Bootstrap.
 - <b>Инструменты:</b> Webpack, Vite, Git (GitHub, GitLab).
 
-### Портфолио (не полное, заполняю по мере возможности)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trial74&repo=Portfolio)](https://github.com/Trial74/Portfolio)
+### [Портфолио](https://github.com/Trial74/Portfolio) (не полное, заполняю по мере возможности)
 
 ---
 
